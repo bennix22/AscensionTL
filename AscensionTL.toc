@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Ascension Transmog Learner
+## Notes: Helps learn transmogs on Ascension
+## Author: Slyke
+## Version: 1.0
+## SavedVariables: AscensionTL_Settings
+
+AscensionTL.lua
